@@ -25,3 +25,4 @@ const myArray = [
 ];
 
 myArray.push(["dog", 3]);
+1234;
